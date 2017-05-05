@@ -1,2 +1,2 @@
-"# Siluet"   git init  git add README.md  git commit -m "first commit"  git remote add origin https://github.com/heksen84/Siluet.git  git push -u origin master
-"# Siluet"   git init  gigit add README.md  git commit -m "first commit"  git remote add origin https://github.com/heksen84/Siluet.git  git push -u origin master
+Небольшое приложение на Visual Foxpro 9 для учета заявок сервисного центра.
+A small application on Visual Foxpro 9 to take into account the requests of the service center.
