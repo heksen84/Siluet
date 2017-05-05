@@ -1,2 +1,2 @@
-Небольшое приложение на Visual Foxpro 9 для учета заявок сервисного центра.
+РќРµР±РѕР»СЊС€РѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ РЅР° Visual Foxpro 9 РґР»СЏ СѓС‡РµС‚Р° Р·Р°СЏРІРѕРє СЃРµСЂРІРёСЃРЅРѕРіРѕ С†РµРЅС‚СЂР°.
 A small application on Visual Foxpro 9 to take into account the requests of the service center.
